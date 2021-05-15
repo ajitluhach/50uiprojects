@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "startproject"
+		},
+		{
+			"path": "expandingcards"
+		},
+		{
+			"path": "progressteps"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "progressteps"
+	}
+}
